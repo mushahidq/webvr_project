@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    </head>
+    <body>
+        <a-scene>
+            <a-assets>
+                <a-asset-item id="soda_cans" src="models/soda_cans/soda_cans.gltf"></a-asset-item>
+                <a-asset-item id="pizza" src="models/pizza/pizza.gltf"></a-asset-item>
+                <a-asset-item id="waterbottle" src="models/waterbottle/waterbottle.gltf"></a-asset-item>
+                <a-asset-item id="snickers" src="models/snickers/snickers.gltf"></a-asset-item>
+                <a-asset-item id="watermelon" src="models/watermelon/watermelon.gltf"></a-asset-item>
+                <a-asset-item id="sugar_cubes" src="models/sugar_cubes/sugar_cubes.gltf"></a-asset-item>
+                <img src="img.jpg" id="img">
+            </a-assets>
+            <a-gltf-model position="0 0 -0.5" src="#waterbottle" position="" rotation="" scale="" visible="" gltf-model=""></a-gltf-model>
+            <a-gltf-model scale="0.2" position="0.5 0 -0.5" src="#watermelon" position="" rotation="" scale="" visible="" gltf-model=""></a-gltf-model>
+            <a-gltf-model position="0.5 0.2 -10" src="#sugar_cubes" position="" rotation="" scale="" visible="" gltf-model=""></a-gltf-model>                    
+            <a-sky src="#img"></a-sky>
+        </a-scene>
+    </body>
+</html>
