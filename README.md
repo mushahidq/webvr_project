@@ -2,15 +2,15 @@
 
 ## Inspiration
 
-This idea from the ideabank seemed like something that being a newbie to VR/AR I would be able to build on my own. I joined the hackathon pretty late so unfortunately I was not able to complete it.
+We thought about ways we could help the environment as individuals. This is more important than ever, especially since some people may not be able to work together during the pandemic. We decided that learning to grow a plant virtually would give beginners the education necessary to take the first steps in helping the environment around them.
 
 ## What it does
 
-It shows some 3d models with the amount of sugar in them
+It shows users how to grow a plant and contains tips on how to give your plant the best chance at surviving.
 
-## How I built it
+## How we built it
 
-I used WebVR for the application and 3D models were downloaded from the internet
+We used WebVR for the application and 3D models were downloaded from the internet
 
 ## Challenges we ran into
 
@@ -19,7 +19,8 @@ Also Unity kept crashing and the builds to Android were not working so I decided
 
 ## Accomplishments that we're proud of
 
-I learnt a lot about AR/VR in unity and on the web
+We learnt a lot about AR/VR in unity and on the web.
+We also learned how to work with 3D models
 
 ## What we learned
 
@@ -27,4 +28,4 @@ WebVR, ARFoundation, ARCore, AR.js
 
 ## What's next for SugarContent VR
 
-Some user interaction and maybe I'll port to unity and try AR
+We will try to add some user interaction and maybe we'll port to unity and try AR
