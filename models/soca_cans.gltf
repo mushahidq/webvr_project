@@ -1,0 +1,592 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        29.105087280273438,
+        28.375362396240234,
+        101.03421783447266
+      ],
+      "min": [
+        -26.222780227661133,
+        -28.375362396240234,
+        0.83494973182678223
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1176,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        0.90096896886825562,
+        0.97492796182632446,
+        0.96610671281814575
+      ],
+      "min": [
+        -1,
+        -0.97492796182632446,
+        -0.92755645513534546
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        0.99833947420120239,
+        0.90096896886825562,
+        0.64084380865097046,
+        1
+      ],
+      "min": [
+        -0.97492802143096924,
+        -1,
+        -0.60328608751296997,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        0.99578529596328735,
+        0.99188989400863647
+      ],
+      "min": [
+        0.013177771121263504,
+        0.013309717178344727
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 282,
+      "max": [
+        97
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2352,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        29.105087280273438,
+        28.375362396240234,
+        101.03421783447266
+      ],
+      "min": [
+        -26.222780227661133,
+        -28.375362396240234,
+        0.83494973182678223
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3528,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        0.90096896886825562,
+        0.97492796182632446,
+        0.96610671281814575
+      ],
+      "min": [
+        -1,
+        -0.97492796182632446,
+        -0.92755645513534546
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1568,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        0.99833947420120239,
+        0.90096896886825562,
+        0.64084380865097046,
+        1
+      ],
+      "min": [
+        -0.97492802143096924,
+        -1,
+        -0.60328608751296997,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 784,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        0.99578529596328735,
+        0.99188989400863647
+      ],
+      "min": [
+        0.013177771121263504,
+        0.013309717178344727
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1128,
+      "componentType": 5125,
+      "count": 282,
+      "max": [
+        97
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4704,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        29.105087280273438,
+        28.375362396240234,
+        101.03421783447266
+      ],
+      "min": [
+        -26.222780227661133,
+        -28.375362396240234,
+        0.83494973182678223
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5880,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        0.90096896886825562,
+        0.97492796182632446,
+        0.96610671281814575
+      ],
+      "min": [
+        -1,
+        -0.97492796182632446,
+        -0.92755645513534546
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 3136,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        0.99833947420120239,
+        0.90096896886825562,
+        0.64084380865097046,
+        1
+      ],
+      "min": [
+        -0.97492802143096924,
+        -1,
+        -0.60328608751296997,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1568,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        0.99578529596328735,
+        0.99188989400863647
+      ],
+      "min": [
+        0.013177771121263504,
+        0.013309717178344727
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2256,
+      "componentType": 5125,
+      "count": 282,
+      "max": [
+        97
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "NTSC (https://sketchfab.com/NTSC)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/bc297fd86f2841ccb9a4f9d6b4c529c9",
+      "title": "Soda Cans"
+    },
+    "generator": "Sketchfab-3.31.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 3384,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2352,
+      "byteOffset": 3384,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7056,
+      "byteOffset": 5736,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4704,
+      "byteOffset": 12792,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 17496,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Can1_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Can3_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Can2_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Can2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.14462652440000001
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Can1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.095846036600000017
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Can3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.12633384150000004
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "soda_can2_Can2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "soda_can1_Can1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "soda_can3_Can3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "a556d88caa1d4bfd8da77c7e1394dbbb.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-14,
+        -100,
+        0,
+        0,
+        100,
+        2.2204460492503131e-14,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "soda_can2"
+    },
+    {
+      "mesh": 0,
+      "name": "soda_can2_Can2_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-14,
+        -100,
+        0,
+        0,
+        100,
+        2.2204460492503131e-14,
+        0,
+        -5885.12158203125,
+        0,
+        0,
+        1
+      ],
+      "name": "soda_can1"
+    },
+    {
+      "mesh": 1,
+      "name": "soda_can1_Can1_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-14,
+        -100,
+        0,
+        0,
+        100,
+        2.2204460492503131e-14,
+        0,
+        5834.8349609375,
+        0,
+        0,
+        1
+      ],
+      "name": "soda_can3"
+    },
+    {
+      "mesh": 2,
+      "name": "soda_can3_Can3_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
